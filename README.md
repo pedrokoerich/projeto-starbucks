@@ -8,5 +8,5 @@
 </ul>
 <h3>Link de Acesso ao Projeto</h3>
 <ul>
-  <li>https://projeto-starbucks</li>
+  <li>https://pedrokoerich.github.io/projeto-starbucks/</li>
 </ul>
